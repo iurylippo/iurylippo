@@ -18,8 +18,8 @@ I'm iury lippo a Full Stack Web Developer and web designer as well.
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20)](#) 
-[![React Badge](https://img.shields.io/badge/-Redux-593D88?style=for-the-badge&labelColor=black&logo=react&logoColor=593D88)](#)
 [![Redux Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![React Badge](https://img.shields.io/badge/-Redux-593D88?style=for-the-badge&labelColor=black&logo=react&logoColor=593D88)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 [![Styled component Badge](https://img.shields.io/badge/-styled--components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#)
