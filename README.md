@@ -65,7 +65,7 @@ I'm iury lippo a Full Stack Web Developer and web designer as well.
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=iurylippo.iurylippo)
 
 <details>
 <summary>
@@ -95,7 +95,7 @@ END_SECTION:waka-->
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=iurylippo&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
