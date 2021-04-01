@@ -3,7 +3,8 @@
 I'm iury lippo a Full Stack Web Developer and web designer as well.
 
 :mailbox: Reach me out!
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iury-vieira-lippo/) [![Mail Badge](https://img.shields.io/badge/-Insta-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/iurylippo) [![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:iuryvieira.lippo@gmail.com)
+<br>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iury-vieira-lippo/) [![Mail Badge](https://img.shields.io/badge/-Insta-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/iury_lippo) [![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:iuryvieira.lippo@gmail.com)
 
 <!-- TODO: Add last video link -->
 
