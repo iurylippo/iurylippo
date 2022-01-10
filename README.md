@@ -16,7 +16,7 @@ I'm iury lippo a Full Stack Web Developer and web designer as well.
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
-[![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
+[![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&labelColor=black&logo=node.js&logoColor=white)](#)
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20)](#) 
 [![Redux Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![React Badge](https://img.shields.io/badge/-Redux-593D88?style=for-the-badge&labelColor=black&logo=react&logoColor=593D88)](#)
