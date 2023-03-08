@@ -8,7 +8,7 @@ I'm iury lippo a Full Stack Web Developer and web designer as well.
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Trinity-Solucoes
+- 🔭 I’m currently working at @DevSkin
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: iuryvieira.lippo@gmail.com.
 - ⚡ Fun fact: I play games and go to the GYM very often.
